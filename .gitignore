@@ -1,0 +1,6 @@
+.venv
+
+.env
+.flaskenv
+
+.DS_Store
