@@ -15,3 +15,10 @@ Sau đó hiển thị thông tin thu được ra màn hình kết quả
  Dùng lệnh python main.py
 5. Dùng dự án
  Dùng tổ hợp phím ctrl+c, hoặc kill terminal
+
+# Demo
+<img src="static/img/demo/weather-app-01.png" alt="Demo Image 1" width="800" />
+
+<img src="static/img/demo/weather-app-02.png" alt="Demo Image 2" width="800" />
+
+<img src="static/img/demo/weather-app-03.png" alt="Demo Image 3" width="800" />
